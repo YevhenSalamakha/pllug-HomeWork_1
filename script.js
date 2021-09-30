@@ -34,3 +34,6 @@ let resultString = firstChar + upString.slice(1)
 
 
 console.log(resultString)
+
+// Завдання не виконано, працюватиме лише для однієї стрічки в обидвох способах
+// Має бути універсальний код
